@@ -1,10 +1,10 @@
 # Masscan-burp-extension
 
-This is an extension for burp integrated with the masscan.
+This is an extension for Burp Suite to make it work with Masscan.
 
 # Requirements
 
-To this extension work in your burp you need three things:
+To this extension work in your Burp you need three things:
 
   1.Burp Suite installed in your system
   2. Masscan installed in your system
