@@ -21,6 +21,7 @@ To this extension work in your burp you need three things:
   Go to extender tab and wait the scan finishes it's work
   
 
-Developed by Rafael "Lopseg" Rodrigues da Silva.
-To God is all glory.
+#
+*Developed by Rafael "Lopseg" Rodrigues da Silva.
+To God is all glory.*
 
